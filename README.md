@@ -14,6 +14,7 @@ this write data for post :
 
 
 After added the posts: 
-![4](https://user-images.githubusercontent.com/76782050/164266643-3dafa926-09f4-440d-8df1-1334004c013a.jpg)![5](https://user-images.githubusercontent.com/76782050/164266674-16f8472a-8196-411f-bc47-3644873ca7d7.jpg)
+
+![4](https://user-images.githubusercontent.com/76782050/164266643-3dafa926-09f4-440d-8df1-1334004c013a.jpg),![5](https://user-images.githubusercontent.com/76782050/164266674-16f8472a-8196-411f-bc47-3644873ca7d7.jpg)
 
 
