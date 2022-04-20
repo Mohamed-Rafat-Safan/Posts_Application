@@ -9,5 +9,5 @@ Main Activity that add all posts :
 
 this write data for post :
 
-![2](https://user-images.githubusercontent.com/76782050/164266005-88131a3f-9c36-4841-a483-65fb4613f842.jpg) ![3](https://user-images.githubusercontent.com/76782050/164266024-b39ac55c-aa12-4e81-acef-b7f173242013.jpg)
+![2](https://user-images.githubusercontent.com/76782050/164266005-88131a3f-9c36-4841-a483-65fb4613f842.jpg)![3](https://user-images.githubusercontent.com/76782050/164266024-b39ac55c-aa12-4e81-acef-b7f173242013.jpg)
 
