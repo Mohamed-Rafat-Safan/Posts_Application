@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">منشوراتك</string>
+
+    <string name="tv_following">التابعين</string>
+    <string name="tv_followers">المتابعين</string>
+    <string name="tv_posts">المنشورات</string>
+    <string name="btn_follow">تابع</string>
+    <string name="btn_like">أعجبني</string>
+    <string name="btn_share">مشاركة</string>
+    <string name="btn_comment">تعليق</string>
+
+    <string name="default_name">الاسم</string>
+
+
+</resources>
